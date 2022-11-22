@@ -1,5 +1,3 @@
-package com.example.mydummy.programs;
-
 import java.util.ArrayList;
 
 public class MoveModelClass {
